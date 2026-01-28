@@ -1,0 +1,25 @@
+{
+  "name": "@kidsblock/board-arduino-uno",
+  "version": "1.0.0",
+  "description": "Arduino Uno board configuration for KidsBlock",
+  "main": "board.json",
+  "keywords": [
+    "kidsblock",
+    "arduino",
+    "uno",
+    "atmega328p"
+  ],
+  "author": "KidsBlock Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/kidsblock-boards.git",
+    "directory": "arduino-uno"
+  },
+  "files": [
+    "board.json",
+    "pins.json",
+    "image.jpg",
+    "README.md"
+  ]
+}
