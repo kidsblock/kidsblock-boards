@@ -1,0 +1,12 @@
+{
+  "id": "pico",
+  "name": "Raspberry Pi Pico",
+  "manufacturer": "Raspberry Pi",
+  "description": "基于RP2040芯片的高性能开发板",
+  "category": "pico",
+  "uploadSpeed": 115200,
+  "usbId": {
+    "vid": "0x2E8A",
+    "pid": "0x0005"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arduino-uno",
+  "name": "UNO 开发板",
+  "manufacturer": "keyestudio",
+  "description": "经典的 Arduino 入门开发板，拥有 14 个数字引脚和 6 个模拟输入，非常适合初学者学习电子编程。",
+  "chip": "ATmega328P",
+  "frequency": "16MHz",
+  "voltage": "5V",
+  "flash": "32KB",
+  "sram": "2KB",
+  "eeprom": "1KB",
+  "fqbn": "arduino:avr:uno",
+  "usb": {
+    "ids": [
+      { "vendorId": "2341", "productId": "0043" },
+      { "vendorId": "2341", "productId": "0001" },
+      { "vendorId": "2A03", "productId": "0043" },
+      { "vendorId": "1A86", "productId": "7523" }
+    ]
+  },
+  "baudRate": 115200,
+  "uploadBaudRate": 115200,
+  "programming": {
+    "languages": ["C++"],
+    "modes": ["upload"]
+  },
+  "image": "arduino-uno.jpg",
+  "helpUrl": "https://wiki.keyestudio.com/Ks0001_keyestudio_UNO_R3_BOARD",
+  "tags": ["arduino", "beginner", "popular"]
+}

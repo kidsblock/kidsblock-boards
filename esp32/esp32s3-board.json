@@ -1,0 +1,12 @@
+{
+  "id": "esp32s3",
+  "name": "ESP32-S3",
+  "manufacturer": "Espressif",
+  "description": "ESP32的升级版，支持AI加速和USB OTG",
+  "category": "esp32",
+  "uploadSpeed": 921600,
+  "usbId": {
+    "vid": "0x303A",
+    "pid": "0x1001"
+  }
+}

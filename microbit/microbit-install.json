@@ -1,0 +1,5 @@
+{
+  "core": "microbit:nrf52@2.0.0",
+  "fqbn": "microbit:nrf52:microbitv2",
+  "libraries": []
+}

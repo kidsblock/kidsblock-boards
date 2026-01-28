@@ -1,0 +1,12 @@
+{
+  "id": "arduino-mega",
+  "name": "Arduino Mega 2560",
+  "manufacturer": "Arduino",
+  "description": "高性能开发板，拥有54个数字引脚和16个模拟引脚",
+  "category": "arduino",
+  "uploadSpeed": 115200,
+  "usbId": {
+    "vid": "0x2341",
+    "pid": "0x0042"
+  }
+}

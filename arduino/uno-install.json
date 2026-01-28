@@ -1,0 +1,55 @@
+{
+  "core": {
+    "package": "arduino:avr",
+    "version": "1.8.6",
+    "downloadUrl": "https://downloads.arduino.cc/cores/avr-1.8.6.tar.bz2",
+    "size": "5.0 MB",
+    "sha256": "b26fcd8bf6d3c4d8b8c8e3f8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8"
+  },
+  "tools": [
+    {
+      "name": "avr-gcc",
+      "version": "7.3.0-atmel3.6.1-arduino7",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32.zip",
+          "size": "52 MB"
+        },
+        "macos-x64": {
+          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin14.tar.bz2",
+          "size": "35 MB"
+        },
+        "linux-x64": {
+          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2",
+          "size": "34 MB"
+        }
+      }
+    },
+    {
+      "name": "avrdude",
+      "version": "6.3.0-arduino17",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-i686-w64-mingw32.zip",
+          "size": "0.6 MB"
+        },
+        "macos-x64": {
+          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-x86_64-apple-darwin12.tar.bz2",
+          "size": "0.5 MB"
+        },
+        "linux-x64": {
+          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-x86_64-pc-linux-gnu.tar.bz2",
+          "size": "0.5 MB"
+        }
+      }
+    }
+  ],
+  "libraries": [
+    {
+      "name": "Servo",
+      "version": "1.2.0",
+      "installCommand": "arduino-cli lib install Servo@1.2.0"
+    }
+  ],
+  "installPath": "~/.kidsblock/packages/arduino/hardware/avr"
+}

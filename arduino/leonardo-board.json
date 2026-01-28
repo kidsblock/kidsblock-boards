@@ -1,0 +1,12 @@
+{
+  "id": "arduino-leonardo",
+  "name": "Arduino Leonardo",
+  "manufacturer": "Arduino",
+  "description": "内置USB通信的开发板，可模拟键盘和鼠标",
+  "category": "arduino",
+  "uploadSpeed": 57600,
+  "usbId": {
+    "vid": "0x2341",
+    "pid": "0x8036"
+  }
+}

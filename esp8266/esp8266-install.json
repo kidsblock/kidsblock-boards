@@ -1,0 +1,7 @@
+{
+  "core": "esp8266:esp8266@3.1.2",
+  "fqbn": "esp8266:esp8266:nodemcu",
+  "libraries": [
+    "ESP8266WiFi"
+  ]
+}

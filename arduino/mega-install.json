@@ -1,0 +1,7 @@
+{
+  "core": "arduino:avr@1.8.6",
+  "fqbn": "arduino:avr:mega",
+  "libraries": [
+    "Servo@1.2.0"
+  ]
+}

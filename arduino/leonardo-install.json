@@ -1,0 +1,9 @@
+{
+  "core": "arduino:avr@1.8.6",
+  "fqbn": "arduino:avr:leonardo",
+  "libraries": [
+    "Servo@1.2.0",
+    "Keyboard",
+    "Mouse"
+  ]
+}

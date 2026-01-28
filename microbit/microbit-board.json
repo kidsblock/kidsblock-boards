@@ -1,0 +1,12 @@
+{
+  "id": "microbit",
+  "name": "Micro:bit V2",
+  "manufacturer": "BBC",
+  "description": "教育开发板，内置LED矩阵和传感器",
+  "category": "microbit",
+  "uploadSpeed": 115200,
+  "usbId": {
+    "vid": "0x0D28",
+    "pid": "0x0204"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "core": "esp32:esp32@2.0.14",
+  "fqbn": "esp32:esp32:esp32",
+  "libraries": [
+    "WiFi",
+    "BluetoothSerial"
+  ]
+}

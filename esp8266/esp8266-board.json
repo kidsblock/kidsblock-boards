@@ -1,0 +1,12 @@
+{
+  "id": "esp8266",
+  "name": "ESP8266 NodeMCU",
+  "manufacturer": "Espressif",
+  "description": "低成本WiFi开发板，适合物联网项目",
+  "category": "esp8266",
+  "uploadSpeed": 115200,
+  "usbId": {
+    "vid": "0x1A86",
+    "pid": "0x7523"
+  }
+}

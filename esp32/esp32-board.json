@@ -1,0 +1,12 @@
+{
+  "id": "esp32",
+  "name": "ESP32 DevKit",
+  "manufacturer": "Espressif",
+  "description": "强大的WiFi和蓝牙双模开发板",
+  "category": "esp32",
+  "uploadSpeed": 921600,
+  "usbId": {
+    "vid": "0x10C4",
+    "pid": "0xEA60"
+  }
+}

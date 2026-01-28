@@ -1,0 +1,12 @@
+{
+  "id": "arduino-nano",
+  "name": "Arduino Nano",
+  "manufacturer": "Arduino",
+  "description": "小巧紧凑的开发板，适合嵌入式项目",
+  "category": "arduino",
+  "uploadSpeed": 57600,
+  "usbId": {
+    "vid": "0x2341",
+    "pid": "0x0043"
+  }
+}
